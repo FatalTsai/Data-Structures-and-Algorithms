@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms-in-Python
+# Data Structures and Algorithms in Python
 ## Algorithms
 ### 1. Searching and Sorting
 - [The Binary Search](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/the_binary_search.py)
