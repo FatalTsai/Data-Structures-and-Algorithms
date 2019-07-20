@@ -5,5 +5,5 @@
 ## Data Structures
 ### 1. List-Based Collections
 - [Linked List](https://github.com/dtsai7/Data-Structures-in-Python/tree/master/Linked%20List)
-- [Queue](https://github.com/dtsai7/Data-Structures-in-Python/tree/master/Queue)
+- [Queue](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Queue/Queue.py)
 - [Stack](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Stack/Stack.py)
