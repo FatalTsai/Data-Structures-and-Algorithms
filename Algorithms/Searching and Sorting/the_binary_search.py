@@ -15,7 +15,7 @@ def binary_search(alist, item):
 	return found
 
 #example
-alist = [1, 3, 4, 12, 14, 19, 22, 28, 39, 41]
+alist = [1, 3, 4, 12, 14, 19, 22, 28, 39, 41, 57, 63, 76, 89]
 print(binary_search(alist, 19))
 print(binary_search(alist, 27))
 
