@@ -1,19 +1,7 @@
 class Node:
-    def __init__(self,initdata):
-        self.data = initdata
+    def __init__(self,init):
+        self.data = init
         self.ref = None
-
-    def getData(self):
-        return self.data
-
-    def getNext(self):
-        return self.ref
-
-    def setData(self,newdata):
-        self.data = newdata
-
-    def setNext(self,newnext):
-        self.ref = newnext
 
 class LinkedList:  
     def __init__(self):
