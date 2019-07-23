@@ -1,19 +1,19 @@
 class Node:
     def __init__(self,initdata):
         self.data = initdata
-        self.next = None
+        self.ref = None
 
     def getData(self):
         return self.data
 
     def getNext(self):
-        return self.next
+        return self.ref
 
     def setData(self,newdata):
         self.data = newdata
 
     def setNext(self,newnext):
-        self.next = newnext
+        self.ref = newnext
 
 class LinkedList:  
     def __init__(self):
