@@ -36,5 +36,7 @@ def palchecker(astring):
 
     return stillEqual
 
-print(palchecker("lsdkjfskf"))
+print(palchecker("moon"))
 print(palchecker("radar"))
+print(palchecker("lsdkjfskf"))
+
