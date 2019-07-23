@@ -20,7 +20,7 @@ print(binary_search(alist, 19))
 print(binary_search(alist, 27))
 
 #-------------Recursive Version------------------------------
-def binarySearch(alist, item):
+def BinarySearch(alist, item):
 	if len(alist) == 0:
 		return False
 	else:
