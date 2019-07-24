@@ -14,7 +14,7 @@
    - [Palindrome-Checker](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/palchecker.py)
 
 
-### References:
+## References:
 
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html#)
 
