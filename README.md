@@ -11,5 +11,5 @@
    - [Base Converter](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Stack/baseconverter.py)
    - [Infix to Postfix](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Stack/infix_to_postfix.py)
 - [Deque](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/deque.py)
-   - [PalChecker](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/palchecker.py)
+   - [Palindrome-Checker](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/palchecker.py)
 
