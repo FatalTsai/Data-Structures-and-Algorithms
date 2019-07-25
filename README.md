@@ -1,13 +1,13 @@
 # Data Structures and Algorithms in Python
 ## Algorithms
-### 1. Searching and Sorting
+### Searching and Sorting
 - [The Binary Search](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/the_binary_search.py)
 - [Bubble Sort](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/bubble_sort.py)
 - [Quick Sort](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/quick_sort.py)
-- [Merge Sort]()
+- [Merge Sort](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/merge_sort.py)
 
 ## Data Structures
-### 1. List-Based Collections
+### List-Based Collections
 - [Linked List](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Linked%20List/single_linked_list.py)
 - [Queue](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Queue/Queue.py)
    - [Printer Simulation](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/palchecker.py)
