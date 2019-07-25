@@ -3,8 +3,8 @@
 ### 1. Searching and Sorting
 - [The Binary Search](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/the_binary_search.py)
 - [Bubble Sort](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/bubble_sort.py)
-- [Quick Sort]
-- [Merge Sort]
+- [Quick Sort](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/quick_sort.py)
+- [Merge Sort]()
 
 ## Data Structures
 ### 1. List-Based Collections
