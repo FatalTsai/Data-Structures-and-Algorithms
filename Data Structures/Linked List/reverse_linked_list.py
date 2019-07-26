@@ -24,7 +24,7 @@ class ListNode(object):
         prev = current
         current = next
     self.head = current
-    # Implement this.
+   
 
   # Recursive Solution      
   def reverseRecursively(self, head):
@@ -34,9 +34,9 @@ class ListNode(object):
     head.next.next = head
     head.next = None
     return re
-    # Implement this.
 
-#Test
+
+#Test example
 testHead = ListNode(4)
 node1 = ListNode(3)
 testHead.next = node1
