@@ -10,6 +10,7 @@
 - [The Shell Sort](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/shell_sort.py)
 - [The Quick Sort](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/quick_sort.py)
 - [The Merge Sort](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/merge_sort.py)
+#### Hashing
 
 ## Data Structures
 ### List-Based Collections
