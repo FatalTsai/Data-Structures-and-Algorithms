@@ -15,7 +15,6 @@
 - [Example: Hashing Strings](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Algorithms/Searching%20and%20Sorting/string_hash.py)
 
 ## Data Structures
-### List-Based Collections
 - [Linked List](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Linked%20List/single_linked_list.py)
 - [Queue](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Queue/Queue.py)
    - [Printer Simulation](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/palchecker.py)
