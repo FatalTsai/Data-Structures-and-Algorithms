@@ -68,14 +68,14 @@ H[17] = 'take'
 H[32] = 'converse'
 H[44] = 'gain'
 H[82] = 'experience'
-print(H.slots)
-print(H.data)
+print(H.slots) #[32, 44, None, None, 26, 82, 72, 17, None, None, 54]
+print(H.data) #['converse', 'gain', None, None, 'run', 'experience', 'hit', 'take', None, None, 'make']
 
-print(H.get(26))
+print(H.get(26)) #run
 
 H.put(4, 'see')
-print(H.slots)
-print(H.data)
+print(H.slots) #[32, 44, None, None, 26, 82, 72, 17, 4, None, 54]
+print(H.data) #['converse', 'gain', None, None, 'run', 'experience', 'hit', 'take', 'see', None, 'make']
 
 
 
