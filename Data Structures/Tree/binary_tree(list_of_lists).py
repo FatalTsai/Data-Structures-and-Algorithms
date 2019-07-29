@@ -1,3 +1,4 @@
+#list of lists representation
 def binarytree(root):
     return [root,[],[]]
 
