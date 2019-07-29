@@ -24,7 +24,7 @@
 - [Deque](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/deque.py)
    - [Palindrome-Checker](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/palchecker.py)
 - [Hash Table](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Hash%20Table/hash_table.py)
-- [Tree]()
+- [Tree](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/tree/master/Data%20Structures/Tree)
    - [Binary Tree (list of lists representation)](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Tree/binary_tree.py)
    - [Binary Tree (nodes and references)](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Tree/binary_tree(nodes_and_references).py)
 
