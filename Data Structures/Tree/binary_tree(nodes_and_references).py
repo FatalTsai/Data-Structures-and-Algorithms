@@ -43,8 +43,14 @@ class binarytree:
             postorder(tree.getleftchild())
             postorder(tree.getrightchild())
             print(tree.getrootval())
+            
+    def inorder(tree):
+        if tree != None:
+            inorder(tree.getleftchild())
+            print(tree.getrootval())
+            inorder(tree.getrightchild())
 
-
+        
 t = binarytree('a')
 t.insertleft('b')
 t.insertright('c')
