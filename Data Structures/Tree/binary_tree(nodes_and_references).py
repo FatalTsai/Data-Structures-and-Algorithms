@@ -37,7 +37,12 @@ class binarytree:
             print(tree.getrootval())
             preorder(tree.getleftchild())
             preorder(tree.getrightchild())
-     
+    
+    def postorder(tree):
+        if tree != None:
+            postorder(tree.getleftchild())
+            postorder(tree.getrightchild())
+            print(tree.getrootval())
 
 
 t = binarytree('a')
