@@ -30,6 +30,14 @@ class binarytree:
 
     def getrootval(self):
         return self.key
+    
+    #tree traverals
+    def preorder(tree):
+        if tree:
+            print(tree.getrootval())
+            preorder(tree.getleftchild())
+            preorder(tree.getrightchild())
+     
 
 
 t = binarytree('a')
