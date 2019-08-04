@@ -112,6 +112,35 @@ class binarysearchtree:
                 self._put(key,val,cn.rightchild)
             else:
                 cn.rightchild = treenode(key, val, par= cn)
+    '''
+    # AVL tree
+    def _put(self, key, val, cn):
+        if key < cn.key:
+            if cn.haslch():
+                self._put(key, val, cn.leftchild)
+            else:
+                cn.leftchild = treenode(key, val, par = cn)
+                self.updatebalance(cn.leftchild)
+         else:
+            if cn.hasrch():
+                self._put(key,val,cn.rightchild)
+            else:
+                cn.rightchild = treenode(key, val, par= cn)
+                self.updatebalance(cn.rightchild)
+     
+    def updatebalance(self, node):
+        if node.balancefactor >1 or node.balancefactor < -1:
+            self.rebalance(node)
+            return
+        if node.parent != None:
+            if node.islch():
+                node.par.balancefactor += 1
+            elif node.isrch():
+                node.par.balancefactor -= 1
+            if node.par.balancefactor != 0:
+                self.updatebalance(node.par)
+                
+    '''
 
     def __setitem__(self, key, value):
         self.put(key, value)
