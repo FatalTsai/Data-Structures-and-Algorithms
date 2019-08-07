@@ -158,7 +158,21 @@ class binarysearchtree:
         rotroot.balancefactor = rotroot.balancefactor + 1 - min(newroot.balancefactor, 0)
         newroot.balancefactor = newroot.balancefactor + 1 + max(rotroot.balancefactor, 0)
     
+    def rebalance(self, node):
+        if node.balancefactor < 0:
+            if node.rightchild.balancefactor > 0:
+                self.rotateright(node.rightchild)
+                self.rotateleft(node)
+            else:
+                self.rotateleft(node)
+        elif node.balancefactor > 0:
+            if node.rightchild.balancefactor < 0:
+                self.rotateleft(node.leftchild)
+                self.rotateright(node)
+            else:
+                self.rotateright(node)
     '''
+    
     def __setitem__(self, key, value):
         self.put(key, value)
 
