@@ -29,7 +29,7 @@ def heapsort(arr):
 
 arr = [2, 7, 26, -2, 5, 21, 3, 10]
 heapsort(arr)
-print(arr)
+print(arr) #[-2, 2, 3, 5, 7, 10, 21, 26]
 
 
 
