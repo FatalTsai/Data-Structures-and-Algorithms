@@ -23,15 +23,15 @@
 - [Queue](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Queue/Queue.py)
    - [Printer Simulation](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/palchecker.py)
 - [Stack](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Stack/Stack.py)
-   - [Base Converter](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Stack/baseconverter.py)
-   - [Infix to Postfix](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Stack/infix_to_postfix.py)
+   - [I. Base Converter](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Stack/baseconverter.py)
+   - [II. Infix to Postfix](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Stack/infix_to_postfix.py)
 - [Deque](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/deque.py)
    - [Palindrome-Checker](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Deque/palchecker.py)
 - [Hash Table](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Hash%20Table/hash_table.py)
 - [Tree](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/tree/master/Data%20Structures/Tree)
-   - [Binary Tree (list of lists representation)](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Tree/binary_tree.py)
-   - [Binary Tree (nodes and references)](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Tree/binary_tree(nodes_and_references).py)
-   - [Binary Search Tree](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Tree/binary_search_tree.py)
+   - [I. Binary Tree (list of lists representation)](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Tree/binary_tree.py)
+   - [II. Binary Tree (nodes and references)](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Tree/binary_tree(nodes_and_references).py)
+   - [III. Binary Search Tree](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Tree/binary_search_tree.py)
 
 ## References
 
