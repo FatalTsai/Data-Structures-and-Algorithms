@@ -39,3 +39,5 @@
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html#)
 
 - [Udacity: Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
+
+- [Introduction to Algorithms, 3rd Edition (The MIT Press)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
