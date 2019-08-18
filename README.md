@@ -42,4 +42,6 @@
 
 - [Introduction to Algorithms, 3rd Edition (The MIT Press)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
+- [Algorithms, 4th Edition](https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X)
+
 - [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
