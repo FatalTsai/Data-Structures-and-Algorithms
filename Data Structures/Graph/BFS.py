@@ -14,7 +14,7 @@ def BFS(g, r):
 
 
 if __name__ == "__main__":
-    graph = {0:[0,1,2], 1:[1], 2:[2]}
+    graph = {0:[1,2], 1:[0,3], 2:[0], 3:[1]}
     BFS(graph,0)
     # BFS(graph,1)
 
