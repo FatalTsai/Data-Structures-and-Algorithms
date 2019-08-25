@@ -8,5 +8,5 @@ def DFS(graph, start, visited = None):
 
 
 
-graph = {'0': set(['0', '1', '2']) , '1': set(['1']), '2': set(['2'])}
+graph = {'0': set(['1', '2']) , '1': set(['0', '3']), '2': set(['0']), '3': set(['1'])}
 print(DFS(graph, '0'))
