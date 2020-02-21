@@ -39,11 +39,6 @@
    - [Depth First Traversal (DFS)](https://github.com/dtsai7/Data-Structures-and-Algorithms-in-Python/blob/master/Data%20Structures/Graph/DFS.py)
 
 ## References
-
-- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html#)
-
-- [Udacity: Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
-
 - [Introduction to Algorithms, 3rd Edition (The MIT Press)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
 - [Algorithms, 4th Edition](https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X)
